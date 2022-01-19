@@ -1,1 +1,1 @@
-# ML_course
+# Machine Learning class
